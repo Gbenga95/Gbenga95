@@ -32,17 +32,17 @@ I’m always on the lookout for innovative ways to apply my knowledge and make a
 
 Here are some of the exciting projects I've been working on:
 
-### 1. **[Predicting Car Selling Prices with Linear Regression](link-to-project)**
-   - 📊 **Objective**: Predict car prices based on various features like mileage, age, and brand.
+### 1. **[Property-price-prediction](https://github.com/Gbenga95/Property-price-prediction)**
+   - 📊 **Objective**: Predict property prices
    - 🔧 **Tech Stack**: Python, Pandas, Scikit-Learn
    - 💡 **Outcome**: Developed an effective regression model that achieved the highest accuracy using Lasso Regression.
 
-### 2. **[K-Means Clustering Project](link-to-project)**
+### 2. **[K-Means Clustering Project](https://github.com/Gbenga95/Clustering_Analysis)**
    - 📊 **Objective**: Perform clustering analysis on customer data to segment into meaningful groups.
    - 🔧 **Tech Stack**: Python, Scikit-Learn, Seaborn
    - 💡 **Outcome**: Successfully segmented customers based on purchasing behavior, leading to tailored marketing strategies.
 
-### 3. **[SQL Portfolio Project](link-to-project)**
+### 3. **[SQL Portfolio Project](https://github.com/Gbenga95/CTE_PROJECT)**
    - 📊 **Objective**: Showcase advanced SQL skills with a project involving customers, products, orders, and reviews.
    - 🔧 **Tech Stack**: MySQL, SQL Window Functions, CTEs
    - 💡 **Outcome**: Developed dynamic reports and analytics for business decision-making.
